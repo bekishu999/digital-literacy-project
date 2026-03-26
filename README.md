@@ -70,19 +70,6 @@ Tasks Performed:
 - Created prevention checklist  
 - Added cyber safety guidelines  
 
-
-## Project Structure
-
-digital-literacy-project/
-│
-├── report/
-├── task-1-presentation/
-├── task-2-portfolio/
-├── task-3-platforms/
-├── task-4-email-etiquette/
-└── task-5-cybercrime/
-
-
 ## Conclusion
 
 This project improved my understanding of digital tools,  
