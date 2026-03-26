@@ -1,7 +1,25 @@
-UPI fraud is one of the most common cybercrimes in India, especially with the rapid growth of digital payment systems. In this type of fraud, scammers trick users into sharing sensitive banking details such as OTPs or approving fraudulent payment requests.
+UPI fraud is one of the most common cybercrimes in India.  
+It has increased rapidly with the growth of digital payments.  
 
-A typical scenario begins when a fraudster contacts the victim, pretending to be a bank official, customer support agent, or even a buyer from an online marketplace. The scammer may send a fake link or initiate a “collect request” on a UPI app and claim that the victim needs to approve it to receive money. However, when the victim approves the request, money is actually debited from their account instead of being credited.
+In this type of fraud, scammers trick users into sharing  
+sensitive banking details like OTPs or approving payment requests.  
 
-Students and individuals who are not fully aware of digital payment systems are often targeted. Once the victim shares an OTP or approves the request, the transaction is completed instantly, making it difficult to reverse. The consequences include financial loss, mental stress, and sometimes loss of trust in digital platforms.
+A common situation starts when a fraudster contacts the victim.  
+They pretend to be a bank official, customer support agent,  
+or even a buyer from an online platform.  
 
-This case highlights the importance of digital awareness and caution. Users must understand that receiving money does not require approval of a payment request. They should avoid sharing OTPs, verify links carefully, and use only trusted applications to ensure their financial safety.
+The scammer may send a fake link or a payment request.  
+They tell the victim to approve it to receive money.  
+However, once the request is approved, money gets deducted  
+instead of being credited.  
+
+Students and unaware users are often targeted.  
+Once an OTP is shared or a request is approved,  
+the transaction happens instantly and is hard to reverse.  
+
+This leads to financial loss, stress, and loss of trust  
+in digital platforms.  
+
+This case highlights the importance of digital awareness.  
+Users should never share OTPs, avoid suspicious links,  
+and always use trusted applications for transactions.
